@@ -1,11 +1,11 @@
-### **GenaEscobar**
+# **GenaEscobar**
 * **Configuring Servers for 1 years**
 * **Scripter of CS:GO**
 * **Scripter on [Alliedmodders](http://www.sourcemod.net/plugins.php?cat=0&mod=-1&title=&author=Gena&description=&search=1)**
 
+*looking to create new plugins for people*
 
-# *looking to create new plugins for people*
-**Currently working on**
+### **Currently working on**
 - Server SURF; cs.traplife.gg:27025 *(will be released soon!)*
 - [RedieDM](https://www.youtube.com/watch?v=D8TyLaW5GNs)
 
