@@ -1,4 +1,8 @@
-### Hi there 👋
+### GenaEscobar
+# Gena-PrivatePlugins
+* **Configuring Servers for 1 years**
+* **Scripter of CS:GO**
+* **Scripter on Alliedmodders**
 
 <!--
 **GenaEscobar/GenaEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
