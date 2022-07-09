@@ -6,7 +6,7 @@
 *looking to create new plugins for people*
 
 ### **Currently working on**
-- Server SURF; cs.traplife.gg:27025 *(will be released soon!)*
+- Server SURF - **cs.traplife.gg:27025** *(will be released soon!)*
 - [RedieDM](https://www.youtube.com/watch?v=D8TyLaW5GNs)
 
 ### [More Info](https://github.com/GenaEscobar/Gena-Private-Plugins)
