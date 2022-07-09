@@ -8,9 +8,7 @@
 - Server SURF; cs.traplife.gg:27025 *(will be released soon!)*
 - [RedieDM](https://www.youtube.com/watch?v=D8TyLaW5GNs)
 
-## Contact me
-- Discord GenaEscobar#2338
-![image](https://user-images.githubusercontent.com/68827096/178098529-aa8d06f4-dda6-4725-a953-0a640b871fcc.png)
+### [More Info](https://github.com/GenaEscobar/Gena-Private-Plugins)
 
 
 <!--
