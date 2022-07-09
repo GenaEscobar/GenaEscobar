@@ -10,7 +10,7 @@
 
 ## Contact me
 - Discord GenaEscobar#2338
-![[image](https://user-images.githubusercontent.com/68827096/178098529-aa8d06f4-dda6-4725-a953-0a640b871fcc.png)](https://steamcommunity.com/id/genaescobar)
+![image](https://user-images.githubusercontent.com/68827096/178098529-aa8d06f4-dda6-4725-a953-0a640b871fcc.png)
 
 
 <!--
