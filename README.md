@@ -8,6 +8,7 @@
 ### **Currently working on**
 - Server SURF - **cs.traplife.gg:27025** *(will be released soon!)*
 - [RedieDM](https://www.youtube.com/watch?v=D8TyLaW5GNs)
+- AdvancedHideTemmate
 
 ### [More Info](https://github.com/GenaEscobar/Gena-Private-Plugins)
 
